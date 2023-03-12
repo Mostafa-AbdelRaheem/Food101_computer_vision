@@ -6,3 +6,4 @@ Using Food101 dataset to build Food image classification Building a feature extr
 - Python
 - tensorflow
 - tensorflow_datasets
+- sklearn
